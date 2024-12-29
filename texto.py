@@ -1,0 +1,1 @@
+print("Que 2025 Traga Novas Histórias, Novas Pessoas e Novos Sorrisos!")
