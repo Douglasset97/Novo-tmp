@@ -1,5 +1,6 @@
 import gensim.downloader as api
 
+
 # Carregar o modelo de Word2Vec pré-treinado
 model = api.load("word2vec-google-news-300")  # Modelo com maior capacidade para capturar relações semânticas complexas
 
